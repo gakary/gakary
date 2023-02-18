@@ -1,4 +1,3 @@
-![a](https://user-images.githubusercontent.com/66684175/219854640-7650310f-733d-48d9-9bba-3ef90e5e1140.gif)
 
 
 <img align="left" width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=gakary&show_icons=true&theme=radical"/>
