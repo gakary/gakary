@@ -1,6 +1,6 @@
 
 
-<img align="left" width="400px" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gakary&show_icons=true&theme=radical"/>
+
 
 
 
